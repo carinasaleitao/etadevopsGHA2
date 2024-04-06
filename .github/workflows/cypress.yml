@@ -1,4 +1,4 @@
-name: Checkout
+name: UI Tests
 run-name: Sauce Demo UI Test
 on: [push]
 
