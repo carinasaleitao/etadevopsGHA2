@@ -9,10 +9,9 @@
   "keywords": [
     "test",
     "ui",
-    "cypress",
-    "xpeducacao"
+    "cypress"
   ],
-  "author": "Bárbara Cabral",
+  "author": "Carina Sa Leitao",
   "license": "ISC",
   "dependencies": {
     "cypress": "^10.11.0"

@@ -6,5 +6,10 @@ module.exports = {
     upload: {
       target: 'temporary-public-storage',
     },
+    "assert": {
+      "assertions": {
+        "categories:accessibility": ["error", {"minScore": 1}]
+      }
+    }
   },
 };
