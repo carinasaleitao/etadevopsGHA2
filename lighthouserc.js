@@ -1,7 +1,7 @@
 module.exports = {
   ci: {
     collect: {
-      url: ['http://localhost:3000/'],
+      url: ['https://www.businessinsider.com/'],
     },
     upload: {
       target: 'temporary-public-storage',
